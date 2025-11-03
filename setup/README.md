@@ -12,3 +12,6 @@ MLOps stands for machine learning operations. From a high level, it's a set of p
 
 
 For your interest, cPouta and ePouta are the IaaS cloud services at CSC, known as Finnish IT center for science. The cPouta cloud is the public cloud which is easily accessible via the Internet. The ePouta cloud is a virtual private cloud designed to meet the security requirements of handling sensitive data. Both the cPouta and ePouta clouds run on the OpenStack cloud software. The Pouta cloud services are suitable for most kinds of computational workloads and any other supporting services these workloads might need. More information can be found from CSC's documentations of the Pouta services.
+
+
+You will use some Ansible scripts to create a K8s cluster in your VM. Simply speaking, Ansible is a tool for running commands/scripts in remote machines from your local machine.
